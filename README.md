@@ -1,2 +1,3 @@
-# advanced-fintech-app-kywt
-A repository to test GitHub automation for issue management
+# Advanced Fintech App Kywt
+
+A repository to test GitHub automation for issue management.
